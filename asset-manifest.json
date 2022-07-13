@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Seam-Carving-Image-Resizer/static/css/main.4baf8a01.chunk.css",
+    "main.js": "/Seam-Carving-Image-Resizer/static/js/main.2117fd40.chunk.js",
+    "main.js.map": "/Seam-Carving-Image-Resizer/static/js/main.2117fd40.chunk.js.map",
+    "runtime-main.js": "/Seam-Carving-Image-Resizer/static/js/runtime-main.22ecd519.js",
+    "runtime-main.js.map": "/Seam-Carving-Image-Resizer/static/js/runtime-main.22ecd519.js.map",
+    "static/js/2.661b58c8.chunk.js": "/Seam-Carving-Image-Resizer/static/js/2.661b58c8.chunk.js",
+    "static/js/2.661b58c8.chunk.js.map": "/Seam-Carving-Image-Resizer/static/js/2.661b58c8.chunk.js.map",
+    "index.html": "/Seam-Carving-Image-Resizer/index.html",
+    "static/css/main.4baf8a01.chunk.css.map": "/Seam-Carving-Image-Resizer/static/css/main.4baf8a01.chunk.css.map",
+    "static/js/2.661b58c8.chunk.js.LICENSE.txt": "/Seam-Carving-Image-Resizer/static/js/2.661b58c8.chunk.js.LICENSE.txt",
+    "static/media/seam_carving_example.df1ec6d0.jpg": "/Seam-Carving-Image-Resizer/static/media/seam_carving_example.df1ec6d0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22ecd519.js",
+    "static/js/2.661b58c8.chunk.js",
+    "static/css/main.4baf8a01.chunk.css",
+    "static/js/main.2117fd40.chunk.js"
+  ]
+}
